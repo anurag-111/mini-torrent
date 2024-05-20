@@ -1,4 +1,4 @@
-<<<<< HEAD >>>>>
+
 # mini-torrent
 =======
 # mtorrent
@@ -79,4 +79,3 @@ Implemented class methods for message serialization and de-serialization
 3. show downloads: shows the ongoing/completed file downloads
 4. remove <filename.mtorrent>: remove sharing of the file by the current user
 5. quit: exits application
->>>>>>> master
